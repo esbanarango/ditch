@@ -1,7 +1,9 @@
 # If you do not have OpenSSL installed, update
 # the following line to use "http://" instead
 source 'https://rubygems.org'
+ruby '2.1.5'
 
+gem 'rack'
 gem "middleman", "~>3.4.0"
 gem 'puma'
 

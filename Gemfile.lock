@@ -136,5 +136,6 @@ DEPENDENCIES
   middleman (~> 3.4.0)
   middleman-livereload (~> 3.1.0)
   puma
+  rack
   tzinfo-data
   wdm (~> 0.1.0)
