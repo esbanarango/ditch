@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 ruby '2.1.5'
 
 gem 'rack'
+gem 'rack-contrib'
 gem "middleman", "~>3.4.0"
 gem 'puma'
 
